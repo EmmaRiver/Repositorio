@@ -4,6 +4,7 @@
 Integrantes: 
 #### 1. Lozana Reguera Ariana Cristina (Manufactura Digital)
 #### 2. Rivera Jara Emma Lisbeth (Prototipado Electrónico)
+Alumna de Ingeniería Biomédica con interés en biomecánica y rehabilitación. Encargada del prototipado electrónico en este proyecto, con la responsabilidad de seleccionar y montar los componentes electrónicos, integrarlos en el sistema, y realizar las pruebas necesarias para asegurar el correcto funcionamiento del prototipo final.
 #### 3. Malpartida Gil Giampiero (Diseño 3D)
 [![Whats-App-Image-2024-08-26-at-6-28-05-PM.jpg](https://i.postimg.cc/BQn4ztw6/Whats-App-Image-2024-08-26-at-6-28-05-PM.jpg)](https://postimg.cc/bdW7DYPc)
 
